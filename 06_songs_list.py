@@ -24,7 +24,10 @@ violator_songs_list = [
 # Лучше заранее вычислить необходимое, а затем в print(xxx, yyy, zzz)
 
 # TODO здесь ваш код
-
+time=violator_songs_list[3][1]+violator_songs_list[5][1]+violator_songs_list[8][1]
+s="Три песни звучат"
+p="Минут"
+print(s, '%.2f'%(time),p)
 # Есть словарь песен группы Depeche Mode
 violator_songs_dict = {
     'World in My Eyes': 4.76,
@@ -42,3 +45,5 @@ violator_songs_dict = {
 #   А другие три песни звучат ХХХ минут
 
 # TODO здесь ваш код
+tz = violator_songs_dict['Sweetest Perfection']+violator_songs_dict['Policy of Truth']+violator_songs_dict['Blue Dress']
+print("А другие три песни", '%.0f'%(tz))
