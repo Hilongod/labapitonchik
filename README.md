@@ -1,10 +1,10 @@
 # 00_distance
 Цель задания: Составить словарь словарей расстояний между городами и найти расстояние на координатной сетке по формуле ((x1 - x2) ** 2 + (y1 - y2) ** 2) ** 0.5
-<img width="1502" height="19" alt="image" src="https://github.com/user-attachments/assets/13da16a3-cf3c-4acd-a65b-ec3e4d1e7b63" />
+<img width="1518" height="64" alt="image" src="https://github.com/user-attachments/assets/545efbbf-81a6-4441-85e1-7b75f18bc27f" />
 Вывод: Составил словарь словарей расстояний между городами и нашел его на координатной сетке
 # 01_circle
 Цель задания: Вывести на консоль значение площади круга с точностю до 4-х знаков после запятой и если 2 точки "point" лежат внутри этого круга, то вывести на консоль "True", или "False", если точка лежит вовне круга.
-<img width="98" height="49" alt="image" src="https://github.com/user-attachments/assets/9f775936-dd10-4a49-9475-86519820e0d3" />
+<img width="703" height="80" alt="image" src="https://github.com/user-attachments/assets/15bc54b9-dfe2-40f6-b654-2544be08ade0" />
 
 Вывод: Вывел на консоль значение площади круга с точностю до 4-х знаков после запятой и если 2 точки "point" лежат внутри этого круга, то вывел на консоль "True", или "False", если точка лежит вовне круга. 
 # 02_operations
