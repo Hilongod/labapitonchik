@@ -1,66 +1,67 @@
 # 00_distance
 Цель задания: Составить словарь словарей расстояний между городами и найти расстояние на координатной сетке по формуле ((x1 - x2) ** 2 + (y1 - y2) ** 2) ** 0.5
+
 <img width="1518" height="64" alt="image" src="https://github.com/user-attachments/assets/545efbbf-81a6-4441-85e1-7b75f18bc27f" />
+
 Вывод: Составил словарь словарей расстояний между городами и нашел его на координатной сетке
 # 01_circle
 Цель задания: Вывести на консоль значение площади круга с точностю до 4-х знаков после запятой и если 2 точки "point" лежат внутри этого круга, то вывести на консоль "True", или "False", если точка лежит вовне круга.
+
 <img width="703" height="80" alt="image" src="https://github.com/user-attachments/assets/15bc54b9-dfe2-40f6-b654-2544be08ade0" />
 
 Вывод: Вывел на консоль значение площади круга с точностю до 4-х знаков после запятой и если 2 точки "point" лежат внутри этого круга, то вывел на консоль "True", или "False", если точка лежит вовне круга. 
 # 02_operations
 Цель задания: Расставить знаки операций "плюс", "минус", "умножение" и скобки между числами "1 2 3 4 5" так, что бы получилось число "25"
 
-<img width="65" height="19" alt="image" src="https://github.com/user-attachments/assets/da9544c1-1dfa-45e5-a7cb-205db04fdfbe" />
+<img width="710" height="50" alt="image" src="https://github.com/user-attachments/assets/8a2f54fc-cf7a-431e-871c-3b0a99b3ca3d" />
 
 Вывод: Расставил знаки операций "плюс", "минус", "умножение" и скобки между числами "1 2 3 4 5" так, что бы получилось число "25"
 # 03_favorite_movies
 Цель задания: Вывести на консоль с помощью индексации строки, последовательно: первый фильм, последний, второй, второй с конца
 
-<img width="125" height="62" alt="image" src="https://github.com/user-attachments/assets/4cf583ee-c10c-4e9e-835e-1a8409a34789" />
+<img width="752" height="90" alt="image" src="https://github.com/user-attachments/assets/6e9d33a0-e5f2-437a-b1a6-09e2b3af2399" />
 
 Вывод: Вывел на консоль с помощью индексации строки, последовательно: первый фильм, последний, второй, второй с конца
 # 04_my_family
 Цель задания: Создать списки: семья, список списков приблизителного роста членов семьи. Вывести на консоль рост отца, Вывести на консоль общий рост семьи
 
-<img width="224" height="32" alt="image" src="https://github.com/user-attachments/assets/9696c3ad-fe1b-4170-aa63-e9a3ebdafd7b" />
+<img width="760" height="85" alt="image" src="https://github.com/user-attachments/assets/09f63f47-2e9f-4c56-bf14-ff273955a302" />
 
 Вывод: Создал списки: семья, список списков приблизителного роста членов семьи. Вывел на консоль рост отца, Вывел на консоль общий рост семьи
 # 05_zoo
 Цель задания: Выполнить ряд действий со списком: посадить медведя между львом и кенгуру, добавить птиц из списка "birds" в последние клетки зоопарка, уберать слона, вывести на консоль в какой клетке сидит лев и жаворонок.
 
-<img width="581" height="60" alt="image" src="https://github.com/user-attachments/assets/0f044158-56ca-4c67-be51-92628abf0285" />
+<img width="656" height="104" alt="image" src="https://github.com/user-attachments/assets/26092952-e2a4-4707-a1ed-c1b33bd6a318" />
 
 Вывод: Выполнил ряд действий со списком: посадил медведя между львом и кенгуру, добавил птиц из списка "birds" в последние клетки зоопарка, уберал слона, вывел на консоль в какой клетке сидит лев и жаворонок.
 # 06_songs_list
 Цель задания: Распечатать общее время звучания трех песен: 'Halo', 'Enjoy the Silence' и 'Clean'. Распечатать общее время звучания трех песен: 'Sweetest Perfection', 'Policy of Truth' и 'Blue Dress'
 
-<img width="266" height="33" alt="image" src="https://github.com/user-attachments/assets/35a44692-dc01-4c86-9791-1556cf6b257c" />
+<img width="711" height="55" alt="image" src="https://github.com/user-attachments/assets/59e7e53b-795a-4f01-9773-8a9d08e550fb" />
 
 Вывод: Распечатал общее время звучания трех песен: 'Halo', 'Enjoy the Silence' и 'Clean'. Распечатал общее время звучания трех песен: 'Sweetest Perfection', 'Policy of Truth' и 'Blue Dress'
 # 07_secret
 Цель задания: Расшифровать зашифрованное сообщение и вывести на консоль в удобочитаемом виде.
 
-<img width="203" height="17" alt="image" src="https://github.com/user-attachments/assets/01ba7bad-17fa-4032-8c02-e60451fd9da2" />
+<img width="679" height="34" alt="image" src="https://github.com/user-attachments/assets/4f9f3893-b3ac-435a-bd32-cea52dd4a1b6" />
 
 Вывод: Расшифровать зашифрованное сообщение и вывести на консоль в удобочитаемом виде.
 # 08_garden
 Цель задания: Создать множество цветов, произрастающих в саду и на лугу и провести ряд выводов
 
-<img width="563" height="64" alt="image" src="https://github.com/user-attachments/assets/47feed4f-56fc-4ef8-8859-f51aa2b66758" />
-
+<img width="679" height="90" alt="image" src="https://github.com/user-attachments/assets/8d3975f1-92f0-432c-899b-e88352a40757" />
 
 Вывод: Создал множество цветов, произрастающих в саду и на лугу и провел ряд выводов
 # 09_shopping
 Цель задания: Создать словарь цен на продкты
 
-<img width="1476" height="31" alt="image" src="https://github.com/user-attachments/assets/21b7efa1-fc0c-4e37-bd43-0834a7670ecc" />
-
+<img width="696" height="222" alt="image" src="https://github.com/user-attachments/assets/1a558299-7bce-4d85-a226-01502d670358" />
 
 Вывод: Создал словарь цен на продкты
 # 10_store
 Цель задание: Вывести стоимость каждого вида товара на складе
 
-<img width="279" height="61" alt="image" src="https://github.com/user-attachments/assets/b457a915-bab0-4e8b-871c-6b5db30b1f0f" />
+<img width="673" height="86" alt="image" src="https://github.com/user-attachments/assets/40698d7f-10b5-45ef-b60e-e276d4f1e2ad" />
 
 
 Вывод: Вывел стоимость каждого вида товара на складе
