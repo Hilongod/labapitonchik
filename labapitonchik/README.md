@@ -66,10 +66,10 @@
 
 Вывод: Вывел стоимость каждого вида товара на складе
 ## Список использованных источников:
+1. [Справка по markdown](https://doka.guide/tools/markdown/)
+2. [Официальный Python tutorial](https://docs.python.org/3/tutorial/)
 git push - выполняет отправку недавних коммитов c компьютера локального репозитория на сервер с удаленным репозиторием\
 git clone - Клонирование репозитория в новый каталог \
 git commit - Запись изменений в репозиторий\
 git add - Добавить содержимое файла в индекс\
 git pull - Взять из репоитория обновленные данные
-1. [Справка по markdown](https://doka.guide/tools/markdown/)
-2. [Официальный Python tutorial](https://docs.python.org/3/tutorial/)
