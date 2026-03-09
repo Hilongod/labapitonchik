@@ -18,5 +18,8 @@
 Вывод: перебрал числа от 200 000 001, для каждого нашёл делители перебором от 2 до N и вычислил их произведение M(N).
 ## Список использованных источников:
 [Itertools в Python - Хабр](https://habr.com/ru/companies/otus/articles/529356/)
+
 [itertools — Functions creating iterators for efficient looping](https://docs.python.org/3/library/itertools.html)
+
 [Итерируем правильно: 20 приемов использования в Python модуля itertools](https://proglib.io/p/iteriruemsya-pravilno-20-priemov-ispolzovaniya-v-python-modulya-itertools-2020-01-03)
+
