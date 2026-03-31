@@ -31,8 +31,8 @@
 Вывод: вывел рекурсивную и циклическую Функции для расчёта yk=bkyk−1 y_k = b_k y_{k - 1} yk​=bk​yk−1​. y0=1,bk=bk−1x2,b0=12x,x≠0 y_0 = 1, b_k = b_{k-1}x^2, b_0 = \frac{1}{2x}, x \neq 0 y0​=1,bk​=bk−1​x2,b0​=2x1​,x=0.
 
 ## Список использованных источников:
-[Recursion in Programming - Full Course - freeCodeCamp.org][https://habr.com/ru/companies/otus/articles/529356/](https://youtu.be/IJDJ0kBx2LM)
+[Recursion in Programming - Full Course - freeCodeCamp.org]([https://habr.com/ru/companies/otus/articles/529356/](https://youtu.be/IJDJ0kBx2LM))
 
-[🐍 Самоучитель по Python для начинающих. Часть 13: Рекурсивные функции - proglib.io][https://docs.python.org/3/library/itertools.html](https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-13-rekursivnye-funkcii-2023-01-23)
+[🐍 Самоучитель по Python для начинающих. Часть 13: Рекурсивные функции - proglib.io]([https://docs.python.org/3/library/itertools.html](https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-13-rekursivnye-funkcii-2023-01-23))
 
-[Как работает рекурсия – объяснение в блок-схемах и видео - Хабр][https://proglib.io/p/iteriruemsya-pravilno-20-priemov-ispolzovaniya-v-python-modulya-itertools-2020-01-03](https://habr.com/ru/articles/337030/)
+[Как работает рекурсия – объяснение в блок-схемах и видео - Хабр]([https://proglib.io/p/iteriruemsya-pravilno-20-priemov-ispolzovaniya-v-python-modulya-itertools-2020-01-03](https://habr.com/ru/articles/337030/))
