@@ -19,7 +19,7 @@
     ]
 ]
 
-<img width="855" height="87" alt="image" src="https://github.com/user-attachments/assets/ec2e4b15-d813-4545-87b2-79203e468fe1" />
+<img width="642" height="577" alt="image" src="https://github.com/user-attachments/assets/8b6949a8-7a0a-4861-b55e-a0f692f714f2" />
 
 Вывод: вывел рекурсивный и циклический n-мерный массив
 
