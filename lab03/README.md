@@ -1,38 +1,19 @@
-# task1_array
-Цель задания: Функция для создания n-мерных массивов.
+# Вариант 7
+# 1
+Цель работы: создать массивы рекурсивным и нерекурсивным способами
 
->>> create_n_dim_array(2, 3)
-[
-    ['level 2', 'level 2', 'level 2'],
-    ['level 2', 'level 2', 'level 2'],
-    ['level 2', 'level 2', 'level 2']
-]
->>> create_n_dim_array(3, 2)
-[
-    [
-        ['level 3', 'level 3'],
-        ['level 3', 'level 3'],
-    ], 
-    [
-        ['level 3', 'level 3'],
-        ['level 3', 'level 3'],
-    ]
-]
+<img width="490" height="513" alt="image" src="https://github.com/user-attachments/assets/e89b8d8e-4c14-4890-852f-1a850720317a" />
 
-<img width="642" height="577" alt="image" src="https://github.com/user-attachments/assets/8b6949a8-7a0a-4861-b55e-a0f692f714f2" />
 
-Вывод: вывел рекурсивный и циклический n-мерный массив
+Вывод: создал с помощью функии def рекурснивый и нерекурсивным способами
 
-# task2_yk
-Цель задания: Функция для расчёта yk=bkyk−1 y_k = b_k y_{k - 1} yk​=bk​yk−1​. y0=1,bk=bk−1x2,b0=12x,x≠0 y_0 = 1, b_k = b_{k-1}x^2, b_0 = \frac{1}{2x}, x \neq 0 y0​=1,bk​=bk−1​x2,b0​=2x1​,x=0.
+# 2
+Цель работы: создать функцию по нахождению Y с помощью рекурсии и без
 
-<img width="615" height="103" alt="image" src="https://github.com/user-attachments/assets/42c0aab0-6040-405a-968d-f531bfa370f1" />
+<img width="256" height="41" alt="image" src="https://github.com/user-attachments/assets/b258f15f-a54b-4ccb-b6c1-5791fb223fb2" />
 
-Вывод: вывел рекурсивную и циклическую Функции для расчёта yk=bkyk−1 y_k = b_k y_{k - 1} yk​=bk​yk−1​. y0=1,bk=bk−1x2,b0=12x,x≠0 y_0 = 1, b_k = b_{k-1}x^2, b_0 = \frac{1}{2x}, x \neq 0 y0​=1,bk​=bk−1​x2,b0​=2x1​,x=0.
-
-## Список использованных источников:
-[Recursion in Programming - Full Course - freeCodeCamp.org](https://youtu.be/IJDJ0kBx2LM)
-
-[🐍 Самоучитель по Python для начинающих. Часть 13: Рекурсивные функции - proglib.io](https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-13-rekursivnye-funkcii-2023-01-23)
-
-[Как работает рекурсия – объяснение в блок-схемах и видео - Хабр](https://habr.com/ru/articles/337030/)
+Вывод: создал функцию по нахождению Y с помощью рекурсии и без
+# Использованные источники:
+1. [Recursion in Programming - Full Course - freeCodeCamp.org](https://youtu.be/IJDJ0kBx2LMx)
+2. [🐍 Самоучитель по Python для начинающих. Часть 13: Рекурсивные функции - proglib.io](https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-13-rekursivnye-funkcii-2023-01-23)
+3. [Как работает рекурсия – объяснение в блок-схемах и видео - Хабр](https://habr.com/ru/articles/337030/)
