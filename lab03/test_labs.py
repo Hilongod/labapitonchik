@@ -3,7 +3,7 @@ from io import StringIO
 import sys
 import importlib.util
 
-spec = importlib.util.spec_from_file_location("labs3python1_2", "labs3python1_2.py")
+spec = importlib.util.spec_from_file_location("labs3python1", "labs3python1_2.py")
 mod = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(mod)
 br, yr, y = mod.br, mod.yr, mod.y
@@ -25,7 +25,7 @@ def test_yr_matches_y():
     assert yr(3, 2.0) == y(3, 2.0)
 
 def test_y_result():
-    assert y(3, 2.0) == pytest.approx(64.0)  # исправлено: реальный результат 64.0
+    assert y(3, 2.0) == pytest.approx(64.0) 
 
 # --- labs3python1 ---
 
